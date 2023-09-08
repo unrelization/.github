@@ -1,6 +1,6 @@
 # Unrelization Coding Hub
 
-Selamat datang di Hub Pengkodean Unrelisasi! 🚀 Organisasi GitHub ini adalah ruang kolaboratif untuk [unreliablecode](https://github.com/unreliablecode) dan [diahnurhasna](https://github.com/diahnurhasna)
+Selamat datang di Unrelization Coding Hub! 🚀 Organisasi GitHub ini adalah ruang kolaboratif untuk [unreliablecode](https://github.com/unreliablecode) dan [diahnurhasna](https://github.com/diahnurhasna)
  saat kami memulai perjalanan coding bersama saat belajar di Politeknik Caltex Riau. Di sini, kita akan belajar, bereksperimen, dan berbagi kode kita dalam berbagai bahasa pemrograman, termasuk HTML, CSS, PHP, Python, C, dan C++.
 
 ## Tentang kami
