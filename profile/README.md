@@ -1,32 +1,32 @@
 # Unrelization Coding Hub
 
-Welcome to the Unrelization Coding Hub! 🚀 This GitHub organization is the collaborative space for [unreliablecode](https://github.com/unreliablecode) and [diahnurhasna](https://github.com/diahnurhasna)
- as we embark on our coding journey together while studying at Politeknik Caltex Riau. Here, we will learn, experiment, and share our code in various programming languages, including HTML, CSS, PHP, Python, C, and C++.
+Selamat datang di Hub Pengkodean Unrelisasi! 🚀 Organisasi GitHub ini adalah ruang kolaboratif untuk [unreliablecode](https://github.com/unreliablecode) dan [diahnurhasna](https://github.com/diahnurhasna)
+ saat kami memulai perjalanan coding bersama saat belajar di Politeknik Caltex Riau. Di sini, kita akan belajar, bereksperimen, dan berbagi kode kita dalam berbagai bahasa pemrograman, termasuk HTML, CSS, PHP, Python, C, dan C++.
 
-## About Us
-We are two passionate learners who share a love for coding and technology. Our goal is to improve our coding skills, work on projects together, and support each other's growth as developers.
+## Tentang kami
+Kami adalah dua pembelajar yang bersemangat yang berbagi kecintaan terhadap coding dan teknologi. Tujuan kami adalah untuk meningkatkan keterampilan pengkodean, mengerjakan proyek bersama, dan mendukung pertumbuhan satu sama lain sebagai pengembang.
 
-## What You'll Find Here
-In this repository, you can expect to find a variety of code-related projects and learning materials, including but not limited to:
+## Apa yang Akan Anda Temukan Di Sini
+Dalam repositori ini, Anda dapat menemukan berbagai proyek dan materi pembelajaran terkait kode, termasuk namun tidak terbatas pada:
 
-- HTML/CSS Projects: Web development is our foundation, and we'll be working on projects related to front-end development.
-- PHP Projects: Exploring server-side scripting and building dynamic web applications.
-- Python Projects: Dive into the world of Python, from simple scripts to more complex applications.
-- C and C++ Projects: Venture into the realm of system programming and high-performance applications.
+- Proyek HTML/CSS: Pengembangan web adalah fondasi kami, dan kami akan mengerjakan proyek yang berkaitan dengan pengembangan front-end.
+- Proyek PHP: Menjelajahi skrip sisi server dan membangun aplikasi web dinamis.
+- Proyek Python: Selami dunia Python, mulai dari skrip sederhana hingga aplikasi yang lebih kompleks.
+- Proyek C dan C++: Jelajahi bidang pemrograman sistem dan aplikasi berkinerja tinggi.
 
-## How to Navigate
-We've organized our GitHub organization into repositories for each programming language or specific projects. Feel free to explore, contribute, and learn together with us!
+## Cara Menavigasi
+Kami telah mengatur organisasi GitHub kami ke dalam repositori untuk setiap bahasa pemrograman atau proyek tertentu. Jangan ragu untuk menjelajah, berkontribusi, dan belajar bersama kami!
 
-## Get Involved
-- **Fork:** If you find a project you're interested in, fork it to your personal GitHub account.
-- **Clone:** Clone the repository to your local machine using `git clone`.
-- **Contribute:** Create a branch, make your changes, and submit a pull request. We welcome contributions and collaboration!
-- **Discuss:** Feel free to open issues to start discussions or ask questions about any project or code.
+## Terlibat
+- **Fork:** Jika Anda menemukan proyek yang Anda minati, fork ke akun GitHub pribadi Anda.
+- **Clone:** Kloning repositori ke mesin lokal Anda menggunakan `git clone`.
+- **Berkontribusi:** Buat cabang, buat perubahan, dan kirimkan permintaan penarikan. Kami menyambut kontribusi dan kolaborasi!
+- **Diskusikan:** Jangan ragu untuk membuka terbitan untuk memulai diskusi atau mengajukan pertanyaan tentang proyek atau kode apa pun.
 
-## Contact Us
-If you have any questions, suggestions, or just want to chat about code or technology, you can reach out to us through our GitHub profiles or email:
+## Hubungi kami
+Jika Anda memiliki pertanyaan, saran, atau hanya ingin mengobrol tentang kode atau teknologi, Anda dapat menghubungi kami melalui profil GitHub atau email kami:
 
-- [unreliablecode](https://github.com/unreliablecode)
+- [kode tidak dapat diandalkan](https://github.com/unreliablecode)
 - [diahnurhasna](https://github.com/diahnurhasna)
 
-We're excited to have you join us on this coding journey! Let's learn, code, and grow together. 🌟
+Kami senang Anda bergabung dengan kami dalam perjalanan coding ini! Mari belajar, membuat kode, dan tumbuh bersama. 🌟
