@@ -1,6 +1,7 @@
 # Unrelization Coding Hub
 
-Welcome to the Unrelization Coding Hub! 🚀 This GitHub organization is the collaborative space for [Your Name] and [Your Girlfriend's Name] as we embark on our coding journey together while studying at [Your University Name]. Here, we will learn, experiment, and share our code in various programming languages, including HTML, CSS, PHP, Python, C, and C++.
+Welcome to the Unrelization Coding Hub! 🚀 This GitHub organization is the collaborative space for [unreliablecode](https://github.com/unreliablecode) and [diahnurhasna](https://github.com/diahnurhasna)
+ as we embark on our coding journey together while studying at Politeknik Caltex Riau. Here, we will learn, experiment, and share our code in various programming languages, including HTML, CSS, PHP, Python, C, and C++.
 
 ## About Us
 We are two passionate learners who share a love for coding and technology. Our goal is to improve our coding skills, work on projects together, and support each other's growth as developers.
