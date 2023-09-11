@@ -26,7 +26,7 @@ Kami telah mengatur organisasi GitHub kami ke dalam repositori untuk setiap baha
 ## Hubungi kami
 Jika Anda memiliki pertanyaan, saran, atau hanya ingin mengobrol tentang kode atau teknologi, Anda dapat menghubungi kami melalui profil GitHub atau email kami:
 
-- [kode tidak dapat diandalkan](https://github.com/unreliablecode)
+- [unreliablecode](https://github.com/unreliablecode)
 - [diahnurhasna](https://github.com/diahnurhasna)
 
 Kami senang Anda bergabung dengan kami dalam perjalanan coding ini! Mari belajar, membuat kode, dan tumbuh bersama. 🌟
